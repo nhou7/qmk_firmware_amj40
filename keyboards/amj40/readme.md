@@ -2,7 +2,11 @@ AMJ40 keyboard firmware
 ======================
 DIY/Assembled compact 40% keyboard.
 
-Ported from the original TMK firmware by N.Hou
+Ported by N.Hou from the original TMK firmware.
+
+*Supports both backlight LEDs as well as RGB underglow. 
+
+*For reference, the AMJ40 uses pin D3 for underglow lighting.
 
 ## Quantum MK Firmware
 
